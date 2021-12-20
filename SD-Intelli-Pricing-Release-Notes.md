@@ -1,5 +1,13 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.1
+
+#### Enhancements
+
+- BCv19 App - Added the Latest Version of the product and the AppSource URL to the About Page. 
+
+- BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
+
 ### 2.1.0
 
 #### Enhancements
