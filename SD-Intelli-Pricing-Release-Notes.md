@@ -8,6 +8,10 @@
 
 - BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
 
+#### Bug Fixes
+
+- BCv19 App - Fixed an issue where after getting a message that the Free Trials were exceeded and clicking on the Assisted Setup action an error was raised.
+
 ### 2.1.0
 
 #### Enhancements
