@@ -1,5 +1,27 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.2
+
+#### Enhancements
+
+- BCv20 App - A page was created to display all the Simply Dynamics Apps and subscription details for the tenant. 
+
+- BCv20 App - The Licence Expiry message/notification was updated to display the App Name as part of the message. 
+
+- BCv20 App - The Product Activation Page was updated to point to the new CRM URL. 
+
+- BCv20 App - The ToolTips were updated to look at our new website. 
+
+- BCv20 App - The links in the About Page were updated to point to new urls. 
+
+- BCv20 App - Permissions were changed from XML to use AL permission extensions. 
+
+#### Bug Fixes
+
+- BCv20 App - Fix to issue with adding the same item more than once to a price group that is valid for the same time frame. 
+
+- BCv20 App - A fix was made to the code for licence key checks on the SD Intelli Price Role Centre. 
+
 ### 2.1.1
 
 #### Enhancements
