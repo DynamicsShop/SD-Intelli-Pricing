@@ -1,5 +1,15 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.3
+
+#### Enhancements
+
+- BCv21 App - A change was made to allow users to edit the Price Group Lines on the Worksheet and in a new page Edit Price Group Lines using the Edit in Excel functionality.
+
+- BCv21 App - The caption of the new Price Group Lines page was updated to SD Intelli Pricing Edit Price Group Lines.
+
+- BCv21 App - On the Role Centre page two separate queues with actions were merged into a single queue to keep the actions grouped together.
+
 ### 2.1.2
 
 #### Enhancements
