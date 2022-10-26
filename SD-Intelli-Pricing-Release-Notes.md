@@ -1,5 +1,11 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.4
+
+#### Enhancements
+
+- BCv21 App - The Licence Message displayed on first install of SD Intelli Pricing was changed to prompt the user to activate a free trial and to choose Assisted Setup from the Setup Card to create demo data.
+
 ### 2.1.3
 
 #### Enhancements
