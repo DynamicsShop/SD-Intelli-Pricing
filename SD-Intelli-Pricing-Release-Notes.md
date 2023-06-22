@@ -1,5 +1,21 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.5
+
+#### Enhancements
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+- AppSource App - A change was made to the ISV Licence Notification procedure in SD Intelli Pricing to fix an issue that would raise an error when the language is changed from English to another language.
+
+- AppSource App - The SD Intelli Pricing Tenant Subscriptions page had an incorrect caption. This was fixed.
+
+- AppSource App - An error was raised in the Assisted Setup import if non sequential enum values exist in the imported data. This was fixed.
+
+- AppSource App - When selecting SD Intelli Pricing activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
 ### 2.1.4
 
 #### Enhancements
