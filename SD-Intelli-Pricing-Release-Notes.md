@@ -1,5 +1,13 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.6
+
+#### Enhancements
+
+- AppSource App - A new event OnBeforeOnAfterValidateShipmentDateOnSalesLine was published.
+
+- AppSource App - The links in the About page were updated.
+
 ### 2.1.5
 
 #### Enhancements
