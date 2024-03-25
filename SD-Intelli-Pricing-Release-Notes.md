@@ -1,5 +1,15 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.7
+
+#### Enhancements
+
+- AppSource App - A prompt was added to allow users to choose whether to re-validate the pricing on the Sales Lines if Order Date, Document Date, Requested Delivery Date or Shipment Date is changed on the Sales Document Header.
+
+- AppSource App - The logo in App was updated to the new logo.
+
+- AppSource App - The Links in the About Page were updated.
+
 ### 2.1.6
 
 #### Enhancements
