@@ -1,5 +1,11 @@
 ## SD Intelli Pricing Releases
 
+### 2.1.8
+
+#### Enhancements
+
+- AppSource App - An enhancement was made to the revalidation logic of Sales Line Prices if Order Date, Document Date, Requested Delivery Date or Shipment Date are changed on the Sales Header.
+
 ### 2.1.7
 
 #### Enhancements
