@@ -1,5 +1,39 @@
 ## SD Intelli Pricing Releases
 
+### 3.0.0
+
+#### Enhancements
+
+- AppSource App - A new Promotion Level with associated functionality was added to the Price Group Card. This new Level allows users to setup BOGOD and BANDED promotions.
+
+- AppSource App - A new Levies Level with associated functionality was added to the Price Group Card. This new Level allows users to setup various levies which are auto inserted into a sales line. This functionality can be used for levies such as Sugar Tax and DRS levies.
+
+- AppSource App - An action was added to the sales header documents to insert the promotions and levies into the sales lines rather than waiting for release of the document.
+
+- AppSource App - Improvements were made to the Unused Pricing Calculations logic.
+
+- AppSource App - Improvements were made to the Margin Alerts Calculations logic.
+
+- AppSourcce App -The SD Intelli Pricing fields on the Sales Lines were mirrored to the Sales Archives.
+
+- AppSource App - Various UI changes were made to the Price Group Card.
+
+- AppSource App - KPIs for Prices Unused, Prices Expiring and Margin Alerts were surfaced on the Setup Card.
+
+- AppSource App - UI changes were made to the Role Centre. Duplicate Cues were removed.
+
+- AppSource App - A new SD Intelli Pricing FactBox was added to the Item List and Item Card.
+
+- AppSource App - A new SD Intelli Pricing FactBox was added to the Customer List and Customer Card.
+
+- AppSource App - The SD Intelli Pricing Item FactBox was surfaced on the Sales Quotes, Sales Orders, Sales Invoices and Sales Credit Memos so users can easily see if there is a promotion associated with the item on the Sales Line.
+
+- AppSource App - An Item Category Margins KPI was surfaced on the Setup Card.
+
+- AppSource App - Tooltips and Captions in SD Intelli Pricing were updated.
+
+- AppSource App - Changes were made to Enum options so the DemoData file and the Assisted Setup functionality were updated.
+
 ### 2.1.8
 
 #### Enhancements
