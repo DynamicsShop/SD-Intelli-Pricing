@@ -4,11 +4,9 @@
 
 #### Enhancements
 
-- AppSource App - A new Promotion Level with associated functionality was added to the Price Group Card. This new Level allows users to setup BOGOF and BANDED promotions.
+- AppSource App - A new Promotion Level with associated functionality was added to the Price Group Card. This new Level allows users to setup BOGOF and BANDED promotions which are auto inserted into a sales line.
 
 - AppSource App - A new Levies Level with associated functionality was added to the Price Group Card. This new Level allows users to setup various levies which are auto inserted into a sales line. This functionality can be used for levies such as Sugar Tax and DRS levies.
-
-- AppSource App - An action was added to the sales header documents to insert the promotions and levies into the sales lines rather than waiting for release of the document.
 
 - AppSource App - Improvements were made to the Unused Pricing Calculations logic.
 
