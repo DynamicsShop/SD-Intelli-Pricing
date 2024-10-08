@@ -1,5 +1,15 @@
 ## SD Intelli Pricing Releases
 
+### 3.1.1
+
+#### Enhancements
+
+- AppSource App - Changes were made to the levy quantity calculation to handle items with a base UoM that is higher than the single logical unit that is setup to pay the DRS.
+
+- AppSource App - The SDY IP Price Group Lines page is now editable.
+
+- AppSource App - The Edit in Excel With Filters functionality is deprecated in BC25. The SDY IP Price Line Worksheet was updated to use the Edit in Excel And Edit in Excel Filters Codeunits.
+
 ### 3.1.0
 
 #### Enhancements
