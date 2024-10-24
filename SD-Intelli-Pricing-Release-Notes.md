@@ -1,5 +1,21 @@
 ## SD Intelli Pricing Releases
 
+### 3.2.0
+
+#### Enhancements
+
+- AppSource App - Functionality was added to allow for insertion onto sales lines of more than one levy for the same item. 
+
+- AppSource App - Add the Levy and Promotions Tables to the SD Intelli Pricing permission sets.
+
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Intelli Pricing pages.
+
 ### 3.1.1
 
 #### Enhancements
