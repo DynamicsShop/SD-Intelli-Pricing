@@ -1,5 +1,19 @@
 ## SD Intelli Pricing Releases
 
+### 3.2.1
+
+#### Enhancements
+
+AppSource App - The logic behind the Select Prices action on the Worksheet was reworked.
+
+AppSource App - The functionality behind insertion of lines to promotions and levies price groups was reworked. 
+
+#### Bug Fixes
+
+AppSource App - The link on Promotions and Levies in Price Group FactBox was fixed.
+
+AppSource App - A fix was made to apply levies to the free promoted items inserted on the lines.
+
 ### 3.2.0
 
 #### Enhancements
