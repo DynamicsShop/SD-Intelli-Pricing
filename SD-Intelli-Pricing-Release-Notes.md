@@ -1,5 +1,11 @@
 ## SD Intelli Pricing Releases
 
+### 3.2.2
+
+#### Enhancements
+
+- AppSource App - A change was made to the Levies and Promotions codeunits to handle automatic sales order approval workflows.
+  
 ### 3.2.1
 
 #### Enhancements
