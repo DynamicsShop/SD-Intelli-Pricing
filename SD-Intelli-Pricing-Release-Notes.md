@@ -1,5 +1,11 @@
 ## SD Intelli Pricing Releases
 
+### 3.2.3
+
+#### Enhancements
+
+- AppSource App - The D365 BUS FULL ACCESS permission set was extended to include the SD Intelli Pricing objects.
+
 ### 3.2.2
 
 #### Enhancements
