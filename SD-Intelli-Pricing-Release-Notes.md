@@ -1,5 +1,17 @@
 ## SD Intelli Pricing Releases
 
+### 3.2.4
+
+#### Enhancements
+
+- AppSource App - Changes were made to remove promotions and levies functionality from Blanket Sales Orders. Sales Credit Memos and Sales Return Orders no longer process promotions. Copy Document functionality does not copy levy lines into a Credit Memo as the levy lines are recalculated when the document is released or posted.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps. 
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to an error that was raised when the same item/customer/unit of measure combination has multiple price groups.
+
 ### 3.2.3
 
 #### Enhancements
