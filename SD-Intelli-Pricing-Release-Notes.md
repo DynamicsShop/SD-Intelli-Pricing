@@ -1,5 +1,25 @@
 ## SD Intelli Pricing Releases
 
+### 3.3.0
+
+#### Enhancements
+
+- AppSource App - DRS values were surfaced on the Sales Credit Memo.
+
+- AppSource App - Actions were surfaced to manually link and clear the link between DRS lines and item lines on the Posted Sales Invoice Subform and the Posted Sales Credit Memo Subform. This is to allow you to link DRS lines that have not come from SD Intelli Pricing to your Invoices and Credit Memos.
+
+- AppSource App - A new Licence Install and Setup Wizard was created.
+
+- AppSource App - The notification to activate the app, displayed on fresh install of SD Intelli Pricing, was added to the standard Business Central role centres.
+
+- AppSource App - Changes were made to the Manage Subscriptions page.
+
+- AppSource App - The Lead Subscription Link from the Request Subscription action in the Product Activation page was updated.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps.
+
+- AppSource App - A minor change was made to the About page.
+
 ### 3.2.4
 
 #### Enhancements
