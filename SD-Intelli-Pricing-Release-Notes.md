@@ -1,5 +1,13 @@
 ## SD Intelli Pricing Releases
 
+### 3.3.1
+
+#### Enhancements
+
+- AppSource App - A modification was made to the Setup Wizard.
+
+- AppSource App - A minor enhancement was made to the user experience flow on initial install of SD Document Sender.
+
 ### 3.3.0
 
 #### Enhancements
