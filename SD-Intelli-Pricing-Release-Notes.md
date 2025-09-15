@@ -1,5 +1,15 @@
 ## SD Intelli Pricing Releases
 
+### 3.3.2
+
+#### Enhancements
+
+- AppSource App - The licence check in the Sales Invoice Copy Doc functionality was reworked.
+
+- AppSource App - A link to the user guide on the DynamicsShop page was added to the About page and to the Manage Subscriptions page.
+
+- AppSource App - A minor change was made to the Product Activation page.
+
 ### 3.3.1
 
 #### Enhancements
@@ -562,4 +572,5 @@ Catch Weight and Expiry Dates module: 
 - The Shelf Life functionality on the Purchase Line is re-setting the user updated Expiration Dates back to the system calculated date. 
 - There is a blank Description field on the SD-FB Item Shelf Life Worksheet Page. 
 - Movements for Catch Weight Items received in are not being stamped to the SD-FB Item Unit Ledger table.
+
 
