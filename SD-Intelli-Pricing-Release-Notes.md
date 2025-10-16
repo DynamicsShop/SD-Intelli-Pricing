@@ -1,5 +1,27 @@
 ## SD Intelli Pricing Releases
 
+### 3.4.0
+
+#### Enhancements
+
+- AppSource App - Unit Price precision on the Price Group Lines has been extended to support up to five decimal places across Standard, Contract, and Listed pricing levels.
+
+- AppSource App - An event has been added to the OnUpdateUnitPriceByFieldOnAfterFindPrice function within the SDY IP Multi-Group Pricing codeunit. This allows the standard SD Intelli Pricing logic to be bypassed, enabling the application of custom pricing logic when needed.
+
+- AppSource App - Tooltips on the Price Group Worksheet were updated.
+
+- AppSource App - The Price Book report has been retired. Users should now use the Price Checker report as its replacement. The Price Checker report supports printing, exporting to Excel, and emailing directly to users, offering enhanced flexibility and functionality.
+
+- AppSource App - Layout changes were made to the Price Checker report.
+
+- AppSource App - The notification prompting users to activate a free trial of SD Intelli Pricing on a fresh install has been limited to display no more than once per hour on standard role centres.
+
+#### Bug Fixes
+
+- AppSource App - Resolved an issue where the Price Checker could hang when printing the price checker report or filtering on the Price Checker Lines.
+
+- AppSource App - Corrected an issue where promotions were not applied to sales lines if the Ending Date was set on the Price Group header and the Order Date was earlier than the current date. Promotions now apply correctly under these conditions.
+
 ### 3.3.2
 
 #### Enhancements
@@ -572,5 +594,6 @@ Catch Weight and Expiry Dates module: 
 - The Shelf Life functionality on the Purchase Line is re-setting the user updated Expiration Dates back to the system calculated date. 
 - There is a blank Description field on the SD-FB Item Shelf Life Worksheet Page. 
 - Movements for Catch Weight Items received in are not being stamped to the SD-FB Item Unit Ledger table.
+
 
 
