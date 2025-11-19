@@ -1,5 +1,17 @@
 ## SD Intelli Pricing Releases
 
+### 3.4.1
+
+#### Enhancements
+
+- AppSource App - The Price Includes VAT option was removed from the Price Group Card. The Price Includes VAT on the Customer Card is used to determine if VAT is included in the price on the Price Group.
+
+#### Bug Fixes
+
+- AppSource App - An issue was fixed where the Sales Line Discounts were applied if Allow Line Disc. was set to No on the Price Group Card.
+
+-AppSource App - An issue was fixed where the Sales Invoice Discounts were applied even if Allow Invoice  Disc. was set to No on the Price Group Card.
+
 ### 3.4.0
 
 #### Enhancements
@@ -594,6 +606,7 @@ Catch Weight and Expiry Dates module: 
 - The Shelf Life functionality on the Purchase Line is re-setting the user updated Expiration Dates back to the system calculated date. 
 - There is a blank Description field on the SD-FB Item Shelf Life Worksheet Page. 
 - Movements for Catch Weight Items received in are not being stamped to the SD-FB Item Unit Ledger table.
+
 
 
 
