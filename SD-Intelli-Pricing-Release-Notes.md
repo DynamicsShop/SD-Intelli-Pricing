@@ -464,6 +464,8 @@
 
 #### Enhancements
 
+- Converted the v2.0.0 2018 code base to D365BC AL extensions.
+
 - Updated details in the About Action and surfaced on the Setup Card.
 
 - Removed the standard NAV OneNote, Notes and Links Actions from the SD LTA pages.
@@ -503,8 +505,6 @@
 - Renamed the objects as per ISV guidelines.
 
 - Created a new Price Book report.
-
-- Converted the v2.0.0 2018 code base to D365BC AL extensions.
 
 ### 1.0.1
 
@@ -606,6 +606,7 @@ Catch Weight and Expiry Dates module: 
 - The Shelf Life functionality on the Purchase Line is re-setting the user updated Expiration Dates back to the system calculated date. 
 - There is a blank Description field on the SD-FB Item Shelf Life Worksheet Page. 
 - Movements for Catch Weight Items received in are not being stamped to the SD-FB Item Unit Ledger table.
+
 
 
 
