@@ -1,5 +1,15 @@
 ## SD Intelli Pricing Releases
 
+### 3.4.2
+
+#### Enhancements
+
+- AppSource App - When a new customer is created, they can now be automatically assigned to a designated default price group.
+
+#### Bug Fixes
+
+- AppSource - A fix was made to the logic of the List Prices functionality. Sales lines with a listed sales price are no longer initially filtered on unit of measure when the item is added to the sales line
+
 ### 3.4.1
 
 #### Enhancements
@@ -606,6 +616,7 @@ Catch Weight and Expiry Dates module: 
 - The Shelf Life functionality on the Purchase Line is re-setting the user updated Expiration Dates back to the system calculated date. 
 - There is a blank Description field on the SD-FB Item Shelf Life Worksheet Page. 
 - Movements for Catch Weight Items received in are not being stamped to the SD-FB Item Unit Ledger table.
+
 
 
 
